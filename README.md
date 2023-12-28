@@ -10,7 +10,7 @@ This was created to allow spotify premium and free users to listen to their musi
   - Top Artists
   - Top Albums
   - Current Playing Track
-- Controls via discord message interactions before discord implemented their own message button feature
+- Controls via discord message interactions before discord implemented their own embedded buttons
 
 ### Technologies Used
 - MongoDB

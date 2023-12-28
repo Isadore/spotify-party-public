@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2015",
+        "resolveJsonModule": true,
+        "types": ["node"],
+        "outDir": "dist",
+        "esModuleInterop": true
+    },
+    "files": ["bot.ts"],
+    "include": ["./utils", "./commands", "./classes"]
+}

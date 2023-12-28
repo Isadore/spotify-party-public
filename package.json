@@ -1,0 +1,33 @@
+{
+  "name": "spotifyparty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.ts",
+  "dependencies": {
+    "@types/express": "^4.17.6",
+    "@types/mongodb": "^4.0.7",
+    "@types/mongoose": "^5.7.27",
+    "@types/urllib": "^2.33.0",
+    "body-parser": "^1.19.1",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "moment-timezone": "^0.5.31",
+    "mongodb": "^3.7.3",
+    "mongoose": "^5.9.19",
+    "urllib": "^2.36.1",
+    "ws": "^7.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.13",
+    "@types/ws": "^7.2.6",
+    "typescript": "^3.9.2"
+  },
+  "scripts": {
+    "test": "tsc && node dist/bot.js",
+    "start": "tsc && node dist/bot.js",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC"
+}

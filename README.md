@@ -28,3 +28,8 @@ This was created to allow spotify premium and free users to listen to their musi
   - HTTPS Server
   - Typescript
   - Environment variables for private variables outside of github
+ 
+### Sample Images
+![Main](https://github.com/Isadore/spotify-party-public/blob/main/readme/party.png)
+![Stats](https://github.com/Isadore/spotify-party-public/blob/main/readme/stats.png)
+![Track](https://github.com/Isadore/spotify-party-public/blob/main/readme/track.png)
